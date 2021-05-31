@@ -1,0 +1,7 @@
+name: RandomSpawn
+version: ${project.version}
+main: de.tschallacka.spigot.randomspawn.RandomSpawn
+api-version: 1.16
+authors: [ Tschallacka ]
+description: A random spawn plugin, that randomizes non spawn location saved world spawns
+website: https://tschallacka.de
